@@ -83,6 +83,111 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-04-29",
+      "description": "Add a post method ",
+      "category": "Code",
+      "amount": "1",
+      "id": 13
+    },
+    {
+      "date": "",
+      "description": "Adding a project ",
+      "category": "C",
+      "amount": "",
+      "id": 14
+    },
+    {
+      "date": "2024-04-29",
+      "description": "Adding a project ",
+      "category": "Code",
+      "amount": "2",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "Adding a project ",
+      "category": "Code",
+      "amount": "1",
+      "id": 16
+    },
+    {
+      "date": "2024-04-30",
+      "description": "working ",
+      "category": "test",
+      "amount": "5",
+      "id": 17
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 18
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Kelvin add",
+      "category": "Code",
+      "amount": "200",
+      "id": 19
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Kelvin add",
+      "category": "Code",
+      "amount": "200",
+      "id": 20
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Debugging",
+      "category": "code",
+      "amount": "45",
+      "id": 21
+    },
+    {
+      "date": "",
+      "description": "Adding another",
+      "category": "learn",
+      "amount": "6745",
+      "id": 22
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Adding the same",
+      "category": "debug",
+      "amount": "9876",
+      "id": 23
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Addin 234",
+      "category": "adding",
+      "amount": "3496",
+      "id": 24
+    },
+    {
+      "date": "2024-04-30",
+      "description": "Working on the project",
+      "category": "code",
+      "amount": "2693",
+      "id": 25
+    },
+    {
+      "date": "2024-05-01",
+      "description": "morning",
+      "category": "worjrc",
+      "amount": "2704",
+      "id": 26
+    },
+    {
+      "date": "2024-05-01",
+      "description": "Submit",
+      "category": "Code",
+      "amount": "0012",
+      "id": 27
     }
   ]
 }
