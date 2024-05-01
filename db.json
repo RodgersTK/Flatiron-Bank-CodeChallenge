@@ -188,6 +188,13 @@
       "category": "Code",
       "amount": "0012",
       "id": 27
+    },
+    {
+      "date": "2024-05-01",
+      "description": "Deploy",
+      "category": "home",
+      "amount": "0424",
+      "id": 28
     }
   ]
 }
